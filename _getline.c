@@ -2,7 +2,7 @@
 
 /**
 * _getline - read one line from the prompt.
-* @data: struct for the program's data
+* @data: struct for the program's data.
 *
 * Return: reading counting bytes.
 */
