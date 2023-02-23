@@ -4,7 +4,7 @@
  * long_to_string - converts a number to a string.
  * @number: number to be converten in an string.
  * @string: buffer to save the number as string.
- * @base: base to convert number
+ * @base: base to convert number.
  *
  * Return: Nothing.
  */
