@@ -2,7 +2,7 @@
 
 /**
  * expand_variables - expand variables
- * @data: a pointer to a struct of the program's data
+ * @data: a pointer to a struct of the program's data.
  *
  * Return: nothing, but sets errno.
  */
