@@ -1,9 +1,9 @@
 #include "shell.h"
 /**
- * main - initialize the variables of the program
- * @argc: number of values received from the command line
- * @argv: values received from the command line
- * @env: number of values received from the command line
+ * main - initialize the variables of the program.
+ * @argc: number of values received from the command line.
+ * @argv: values received from the command line.
+ * @env: number of values received from the command line.
  * Return: zero on succes.
  */
 int main(int argc, char *argv[], char *env[])
