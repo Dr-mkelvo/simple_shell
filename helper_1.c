@@ -2,7 +2,7 @@
 
 /**
  * free_recurrent_data - free the fields needed each loop
- * @data: struct of the program's data
+ * @data: struct of the program's data.
  * Return: Nothing
  */
 void free_recurrent_data(data_of_program *data)
